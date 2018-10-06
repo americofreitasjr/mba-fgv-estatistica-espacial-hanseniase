@@ -1,6 +1,5 @@
 ---
 title: "Estatística Espacial"
-author: "Shirlei"
 date: "6 de outubro de 2018"
 output: html_document
 ---
