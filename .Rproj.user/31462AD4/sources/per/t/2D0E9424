@@ -1,0 +1,23 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1538850042189.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2206099214",
+    "id" : "2D0E9424",
+    "lastKnownWriteTime" : 1538850438,
+    "last_content_update" : 1538850436256,
+    "path" : "E:/est_espa_hanseniase/teste.Rmd",
+    "project_path" : "teste.Rmd",
+    "properties" : {
+        "cursorPosition" : "15,11",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
